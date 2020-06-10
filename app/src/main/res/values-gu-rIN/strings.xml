@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bye Backpain (BBP)</string>
+    <string name="lower_back">પીઠનો નીચેનો ભાગ</string>
+    <string name="lower_tummy_strengthening">નીચલા પેટને મજબૂત બનાવવું</string>
+    <string name="exercise1_description">તમારા નીચલા પેટના સ્નાયુઓને મજબૂત બનાવવું મહત્વપૂર્ણ છે કારણ કે આ સ્નાયુઓ નીચલા પીઠની ભાગીદારીમાં કાર્ય કરે છે. આનો અર્થ એ થાય કે જો નીચલા પેટના સ્નાયુઓ નબળા હોય તો નીચલા પીઠને કડક કરી શકાય છે, જેનાથી પીઠનો દુખાવો થઈ શકે છે.</string>
+    <string name="exercise1_2_description">નીચલા પેટના સ્નાયુઓ માટે એક મહત્વપૂર્ણ કસરત નીચેની છબીમાં બતાવવામાં આવી છે.</string>
+    <string name="exercise1_3_description">તે અત્યંત નમ્ર અને ખૂબ અસરકારક પણ છે.</string>
+    <string name="exercise1_4_description">તમારી પીઠ પર સૂઈ જાઓ સાથે ઘૂંટણ વાળી અને પગ સપાટ રાખો.</string>
+    <string name="deep_abdominal_strengthening">ઊંડા પેટની મજબૂતી</string>
+    <string name="exercise2_description">મજબૂત કરવા માટે એક ખૂબ જ મહત્વપૂર્ણ સ્નાયુ એ ટ્રાંસ્વર્સ એબોડિમિનીસ છે, જે નીચલા પીઠ માટે મોટો સોદો પૂરો પાડે છે. ઘણા લોકોમાં આ સ્નાયુ અત્યંત નબળુ હોય છે અને તેનાથી પીઠનો દુખાવો થઈ શકે છે. આ સ્નાયુને મજબૂત બનાવવાની રીત ખૂબ જ નમ્ર અને સલામત રીત નીચે બતાવેલ છે.</string>
+    <string name="exercise2_2_description">આ કસરતને તમારી પીઠ પર લઇ જવા માટે, તમારા માથાની નીચે એક નાનો ઓશીકું મૂકો અને તમારા ઘૂંટણને વાળો.</string>
+    <string name="exercise2_3_description">તમારા પગ સાંથળનું અંતર હોવું જોઈએ અને ફ્લોર પર મૂકવું જોઈએ.</string>
+    <string name="bridge">પુલ</string>
+    <string name="exercise3_description">નીચેની તસવીરમાં બતાવ્યા પ્રમાણે નીચલા પીઠને એકત્રીત કરવાની બીજી એક મહાન કવાયત છે. આ કસરત હાથ ધરવા માટે, તમારી પીઠ પર ઘૂંટણ વાળીને અને ફ્લોર પર કુલ્લાનું અંતર રાખવું.</string>
+    <string name="exercise3_2_description">એક ઊંડો શ્વાસ લો અને જ્યારે તમે શ્વાસ બહાર કાઢો ત્યાં સુધી તમારા કુલ્લાને ફ્લોરથી ઉપાડો ત્યાં સુધી ખભો હિપ્સ અને ઘૂંટણ સીધી લાઈનમાં ન આવે ત્યાં સુધી.</string>
+    <string name="exercise3_3_description">જ્યારે તમે શ્વાસ લો છો ત્યારે તમારા હિપ્સ ફ્લોર સુધી નીચલા થઈ જશો.</string>
+    <string name="piriformis_stretch">પિરીફોર્મિસ સ્ટ્રેચ</string>
+    <string name="exercise4_description">બીજી સ્નાયુ કે જે તમને કમરના દુખાવામાં આવે ત્યારે ચુસ્ત હોઈ શકે છે તે છે પિરિફોર્મિસ, તમારા કુંદોમાં એક સ્નાયુ. નીચેનો પટ આ સ્નાયુને ખેંચવામાં ખરેખર અસરકારક છે, અને કરવા માટે ખૂબ જ સરળ છે. કસરત હાથ ધરવા માટે, તમારી પીઠ પર આડો અને જમણા પગની ઘૂંટીને ડાબી બાજુ ઘૂંટણની ઉપરથી પસાર કરો.</string>
+    <string name="exercise4_2_description">તમારા ડાબા પગની જાંઘને પકડો અને ઊંડો શ્વાસ લો</string>
+    <string name="exercise4_3_description">જ્યારે તમે શ્વાસ બહાર કાઢો ત્યારે તમારી તરફ ઘૂંટણને  અંદર ખેંચો.</string>
+    <string name="exercise4_4_description">20-30 સેકંડ સુધી સ્ટ્રેચ પકડો.</string>
+    <string name="upper_back_pain">ઉપરની પીઠનો દુખાવો</string>
+    <string name="to_perform_the_catcow_pose">કેટ-ગાય પોઝ કરવા માટે</string>
+    <string name="exercise5_description">ચારે બાજુથી શરૂ કરો. હાથ સીધા હિપ્સની નીચે, ખભા અને ઘૂંટણની નીચે હોવા જોઈએ. આ એક ટેબલ પોઝ છે. ધીમે ધીમે પાછળની બાજુ ઉપરની બાજુ નમવું, ખભાથી નીચે દબાણ કરો અને માથાને છાતી તરફ ખસેડો. આ બિલાડીની દંભ છે.</string>
+    <string name="exercise5_2_description">તેને થોડી સેકંડ સુધી પકડો, પછી તેને છોડો.</string>
+    <string name="exercise5_3_description">પ્રારંભિક સ્થિતિ પર પાછા ફરો પણ ફ્લોર તરફ નીચલા પાછળ ડ્રોપ કરવાનું ચાલુ રાખો.</string>
+    <string name="to_perform_the_shoulder_roll">ખભા રોલ કરવા માટે</string>
+    <string name="exercise6_description">સીધા ઉભા રહો અથવા શસ્ત્ર નીચે બેસો. સતત પરિપત્ર ગતિમાં તેમને ઉપર અને નીચે ઉઠાવતા ધીમેથી ખભાને આગળ ધપાવો. હાથ હળવા રાખવાનો પ્રયત્ન કરો. લગભગ 30 સેકંડ સુધી આ કરો, પછી તેને વિરુદ્ધ દિશામાં પુનરાવર્તિત કરો.</string>
+    <string name="overhead_arm_reach">ઓવરહેડ હાથ સુધી પહોંચે છે</string>
+    <string name="exercise7_description">બેઠક અથવા સ્થાયી સ્થિતિમાં પ્રારંભ કરો.</string>
+    <string name="exercise8_description">ઘૂંટણથી છાતી સુધી ખેંચવા માટે:</string>
+    <string name="exercise8_2_description">તમારી પીઠ પર સુઈને  પ્રારંભ કરો. ધીમે ધીમે પગ ઉભા કરો અને ઘૂંટણને વાળશો, તેમને છાતી પર લાવો. શ્વાસ લેવા માટે, છાતી સાથે ઘૂંટણને વાળવો, પછી પગને આરામથી ફ્લોર પર પાછા આવવા દો. જરૂરિયાત પ્રમાણે થોડી વાર પુનરાવર્તન કરો.</string>
+    <string name="post_op">પોસ્ટ-ઓપરેટિવ</string>
+    <string name="low_back_stretch">લો બેક સ્ટ્રેચ</string>
+    <string name="exercise9_description">ઘૂંટણથી છાતી સુધી ખેંચવા માટે:</string>
+    <string name="exercise7_2_description">માથા ઉપરના હાથને ખેંચો.</string>
+    <string name="exercise7_3_description">જમણી તરફ ઝુકાવવું, બંને હથિયારો ઉપરની તરફ ખેંચીને. ખેંચાણને વધુ enંડા કરવા માટે, જમણા હાથનો ઉપયોગ કરો</string>
+    <string name="exercise7_4_description">ધીમેધીમે ડાબી બાજુ જમણી તરફ ખેંચો.</string>
+    <string name="exercise7_5_description">પ્રારંભિક સ્થિતિ પર પાછા ફરો.</string>
+    <string name="exercise7_6_description">બંને બાજુએ ઘણી વખત ખેંચીને પુનરાવર્તન કરો.</string>
+    <string name="exercise9_2_description">એક મજબૂત સપાટી પર તમારી પીઠ પર સૂઈ જાઓ. એક ઘૂંટણ વાળીને તેને તમારી છાતી તરફ લાવો. જો તમને આ સ્થિતિમાં અગવડતાનો અનુભવ થાય છે, તો તમારા બીજા પગને વાળવું અને તમારા પગને જમીનની નીચે મૂકો જેથી તમારી પીઠના નીચલા ભાગ પર દબાણ ઓછું થાય.</string>
+    <string name="exercise9_3_description">તમારા હાથને તમારા ઘૂંટણની આસપાસ લપેટવો અને તમારી પીઠની નીચેની બાજુએથી તમને ખેંચાણ ન લાગે ત્યાં સુધી ધીમેથી ખેંચો. આ સ્થિતિને 20 થી 30 સેકંડ સુધી રાખો, પછી આરામ કરો. આ ખેંચીને વિરુદ્ધ પગ પર પુનરાવર્તન કરો.</string>
+</resources>

@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Bye Backpain (BBP)</string>
+    <string name="lower_back">Lower back</string>
+    <string name="lower_tummy_strengthening">Lower Tummy Strengthening</string>
+    <string name="exercise1_description">It is important to strengthen your lower tummy muscles because these muscles work in partnership with the lower back. This means if the lower tummy muscles are weak the lower back can tighten up, which can lead to lower back pain.</string>
+    <string name="exercise1_2_description">A great exercise for the lower tummy muscles is shown in the image below.</string>
+    <string name="exercise1_3_description">It is extremely gentle and also very effective.</string>
+    <string name="exercise1_4_description">Lie on your back with knees bent and feet flat on the floor.</string>
+    <string name="deep_abdominal_strengthening">Deep Abdominal Strengthening</string>
+    <string name="exercise2_description">A very important muscle to strengthen is the transverse abdominis, which provides a great deal of support for the lower back. In many people this muscle is extremely weak and this can lead to lower back pain. A very gentle and safe way to strengthen this muscle is shown below.</string>
+    <string name="exercise2_2_description">To carry out this exercise lie on your back, place a small cushion under your head, and bend your knees.</string>
+    <string name="exercise2_3_description">Your feet should be hip distance apart and placed on the floor.</string>
+    <string name="bridge">Bridge</string>
+    <string name="exercise3_description">Another great exercise for mobilizing the lower back is the bridge, as shown in the image below. To carry out this exercise lie on your back with knees bent and your feet placed hip distance apart on the floor. </string>
+    <string name="exercise3_2_description">Take a deep breath in and as you breathe out lift your hips off the floor until shoulders hips and knees are in a straight line.</string>
+    <string name="exercise3_3_description">As you breathe in lower your hips to the floor. </string>
+    <string name="piriformis_stretch">Piriformis Stretch</string>
+    <string name="exercise4_description">Another muscle which can be tight when you have lower back pain is the piriformis, a muscle in your butt. The stretch below is really effective in stretching this muscle, and very easy to do. To carry out the exercise, lie on your back and cross the right ankle over the left knee.</string>
+    <string name="exercise4_2_description">Grip the thigh of your left leg and take a deep breath in</string>
+    <string name="exercise4_3_description">As you breathe out pull the knee in towards you.</string>
+    <string name="exercise4_4_description">Hold the stretch for 20"&#45;"30 seconds.</string>
+    <string name="upper_back_pain">UPPER BACK PAIN</string>
+    <string name="to_perform_the_catcow_pose">To perform the Cat"&#45;"Cow Pose</string>
+    <string name="exercise5_description">Begin on all fours. The hands should be underneath the shoulders and the knees directly beneath the hips. This is the Table Pose.
+Slowly arch the back upward, pushing down through the shoulders and dropping the head to the chest. This is the Cat Pose.</string>
+    <string name="exercise5_2_description">Hold it for a few seconds, then release it.</string>
+    <string name="exercise5_3_description">Return to the starting position but continue to drop the lower back toward the floor.</string>
+    <string name="to_perform_the_shoulder_roll">To perform the shoulder roll</string>
+    <string name="exercise6_description">Stand or sit up straight, keeping the arms down by the sides.
+Gently roll the shoulders forward, lifting them up and down in a continuous circular motion. Try to keep the arms relaxed.
+Do this for around 30 seconds, then repeat it in the opposite direction.</string>
+    <string name="overhead_arm_reach">Overhead arm reach</string>
+    <string name="exercise7_description">Begin in a sitting or standing position.</string>
+    <string name="exercise7_2_description">Stretch the arms above the head.</string>
+    <string name="exercise7_3_description">Lean to the right, keeping both arms stretched upward. To deepen the stretch, use the right hand</string>
+    <string name="exercise7_4_description">to gently pull the left arm to the right.</string>
+    <string name="exercise7_5_description">Return to the starting position.</string>
+    <string name="exercise7_6_description">Repeat the stretch several times on both sides.</string>
+    <string name="exercise8_description">To perform the knee"&#45;"to"&#45;"chest stretch:</string>
+    <string name="exercise8_2_description">
+Begin by lying on the back.
+Gently lift the legs and bend the knees, bringing them to the chest.
+Hug the knees to the chest for a breath, then relax, allowing the feet to return to the floor.
+Repeat a few times, as needed.</string>
+    <string name="post_op">POST"&#45;"OP</string>
+    <string name="low_back_stretch">Low Back Stretch</string>
+    <string name="exercise9_description">To perform the knee"&#45;"to"&#45;"chest stretch:</string>
+    <string name="exercise9_2_description">Lie on your back on a firm surface. Bend one knee and bring it in toward your chest. If you experience discomfort in this position, bend your other leg and place your foot on the ground to decrease pressure on your low back.</string>
+    <string name="exercise9_3_description">Wrap your hands around your knee and gently pull in until you feel a stretch on the same side of your low back. Hold this position for 20 to 30 seconds, then relax. Repeat this stretch on the opposite leg.</string>
+
+
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainScreen"
+    android:background="#f4f4f4">
+
+    <ImageView
+        android:id="@+id/greenback2"
+        android:layout_width="match_parent"
+        android:layout_height="247.5dp"
+        android:background="#007e86"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bye Backpain"
+        android:textAllCaps="true"
+        android:textColor="#ffffff"
+        android:id="@+id/mainscreenTitleTextView"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="204dp"
+        android:textSize="18sp"
+        android:fontFamily="@font/poppins_bold"/>
+
+    <ImageView
+        android:layout_width="136dp"
+        android:layout_height="136dp"
+        android:src="@drawable/mainscr"
+        app:layout_constraintBottom_toTopOf="@id/mainscreenTitleTextView"
+        android:layout_marginTop="55dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <ImageView
+        android:layout_width="285.5dp"
+        android:layout_height="411.5dp"
+        android:layout_marginTop="255.5dp"
+        android:layout_marginBottom="0dp"
+        android:src="@drawable/mainscr1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/greenback2" />
+
+    <TextView
+        android:layout_width="295.5dp"
+        android:layout_height="match_parent"
+        android:text="BB has been conceptualized in\n collaboration with Spine Surgeon "
+        android:textColor="#333333"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="39.5dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginTop="291.5dp"
+        android:layout_marginBottom="332dp"/>
+
+    <ImageView
+        android:id="@+id/maingreenbck"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/mainscr2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="60dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/mainscr3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="50dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_bold"
+        android:text="DR KULSHRESTHA"
+        android:textAlignment="center"
+        android:textColor="#007e86"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="200dp"
+        android:id="@+id/drname"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_italic"
+        android:text="(MS Orthopedics)"
+        android:textAlignment="center"
+        android:textColor="#333333"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginBottom="210dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/greenbutton"
+        android:text="Let's Go"
+        android:drawableRight="@drawable/ic_arrow_forward_black_24dp"
+        android:drawablePadding="50dp"
+        android:textAlignment="center"
+        android:background="@drawable/button_background"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginBottom="40dp"
+        android:layout_marginStart="70dp"
+        android:layout_marginEnd="70dp"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

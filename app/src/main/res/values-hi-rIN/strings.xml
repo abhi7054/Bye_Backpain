@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bye Backpain (BBP)</string>
+    <string name="lower_back">पीठ के निचले हिस्से में</string>
+    <string name="lower_tummy_strengthening">निचले पेट को मजबूत बनाना</string>
+    <string name="exercise1_description">अपनी निचले पेट की मांसपेशियों को मजबूत करना महत्वपूर्ण है क्योंकि ये मांसपेशियां पीठ के निचले हिस्से की साझेदारी में काम करती हैं। इसका मतलब है कि अगर निचले पेट की मांसपेशियां कमजोर हैं, तो पीठ के निचले हिस्से को कसने में मदद मिल सकती है, जिससे पीठ के निचले हिस्से में दर्द हो सकता है।</string>
+    <string name="exercise1_2_description">निचले पेट की मांसपेशियों के लिए एक महत्वपूर्ण व्यायाम नीचे दी गई छवि में दिखाया गया है।</string>
+    <string name="exercise1_3_description">यह बेहद कोमल है और बहुत प्रभावी भी है।</string>
+    <string name="exercise1_4_description">फर्श पर घुटनों के बल झुकें और पैरों के बल फ्लैट रख कर लेटें।</string>
+    <string name="deep_abdominal_strengthening">गहरी पेट की मजबूती</string>
+    <string name="exercise2_description">मजबूत करने के लिए एक बहुत महत्वपूर्ण मांसपेशी अनुप्रस्थ एब्डोमिनिस है, जो पीठ के निचले हिस्से के लिए एक महान सौदा प्रदान करता है। कई लोगों में, यह मांसपेशी बेहद कमजोर होती है और पीठ दर्द का कारण बन सकती है। इस मांसपेशी को मजबूत करने के लिए निम्नलिखित एक बहुत ही कोमल और सुरक्षित तरीका है।</string>
+    <string name="exercise2_2_description">इस अभ्यास को अपनी पीठ पर ले जाने के लिए, अपने सिर के नीचे एक छोटा तकिया रखें, और अपने घुटनों को मोड़ें।</string>
+    <string name="exercise2_3_description">आपके पैरों को कूल्हे से अलग होना चाहिए और फर्श पर रखा जाना चाहिए।</string>
+    <string name="bridge">पुल</string>
+    <string name="exercise3_description">एक और महान व्यायाम नीचे की पीठ को इकट्ठा करना है जैसा कि नीचे दी गई तस्वीर में दिखाया गया है। इस अभ्यास को करने के लिए, अपनी पीठ पर अपने घुटनों को मोड़ें और कूल्हों को फर्श पर रखें।</string>
+    <string name="exercise3_2_description">एक गहरी सांस लें और अपने कूल्हे को फर्श से तब तक उठाएं जब तक आप साँस छोड़ते हैं जब तक कि कंधे कूल्हों और घुटनों को एक सीधी रेखा में न हो।</string>
+    <string name="exercise3_3_description">जैसा कि आप अपने कूल्हों को फर्श से नीचे की ओर साँस लेते हैं।</string>
+    <string name="piriformis_stretch">पिरिफॉर्मिस स्ट्रैच</string>
+    <string name="exercise4_description">एक और मांसपेशी जो पीठ के निचले हिस्से में दर्द होने पर तंग हो सकती है वह है पिरिफोर्मिस, आपके बट में एक मांसपेशी। नीचे दी गई स्ट्रेच वास्तव में इस मांसपेशियों को फैलाने में प्रभावी है, और करने में बहुत आसान है। व्यायाम करने के लिए, अपनी पीठ के बल लेट जाएं और बाएं घुटने के ऊपर दाएं टखने को पार करें।</string>
+    <string name="exercise4_2_description">अपने बाएं पैर को पकड़ें और गहरी सांस लें</string>
+    <string name="exercise4_3_description">जैसे ही आप साँस छोड़ते हैं, घुटने को अपनी ओर खींचें।</string>
+    <string name="exercise4_4_description">20-30 सेकंड के लिए खिंचाव पकड़ो।</string>
+    <string name="upper_back_pain">ऊपरी पीठ में दर्द</string>
+    <string name="to_perform_the_catcow_pose">कैट-काउ पोज़ करने के लिए</string>
+    <string name="exercise5_description">चारों तरफ से शुरू करो। हाथों को कंधों और घुटनों के नीचे सीधे कूल्हों के नीचे होना चाहिए। यह टेबल पोज है। धीरे-धीरे पीठ को ऊपर की ओर झुकाएं, कंधों से नीचे धकेलें और सिर को छाती तक ले जाएं। यह कैट पोज है।</string>
+    <string name="exercise5_2_description">कुछ सेकंड के लिए इसे पकड़ो, फिर इसे छोड़ दें।</string>
+    <string name="exercise5_3_description">प्रारंभिक स्थिति में लौटें लेकिन निचले हिस्से को फर्श की ओर छोड़ना जारी रखें।</string>
+    <string name="to_perform_the_shoulder_roll">शोल्डर रोल करने के लिए</string>
+    <string name="exercise6_description">बाजुओं को नीचे रखते हुए सीधे खड़े हों या बैठें। धीरे-धीरे कंधों को आगे बढ़ाएं, उन्हें ऊपर और नीचे एक सतत परिपत्र गति में उठाएं। बाहों को तनावमुक्त रखने की कोशिश करें। लगभग 30 सेकंड के लिए ऐसा करें, फिर इसे विपरीत दिशा में दोहराएं।</string>
+    <string name="overhead_arm_reach">ओवरहेड आर्म पहुंचता है</string>
+    <string name="exercise7_description">बैठने या खड़े होने की स्थिति में शुरू करें।</string>
+    <string name="exercise8_description">घुटने से छाती तक खिंचाव करने के लिए:</string>
+    <string name="exercise8_2_description">पीठ के बल लेटकर शुरुआत करें। धीरे से पैरों को उठाएं और घुटनों को मोड़ें, छाती तक लाएं। सांस लेने के लिए घुटनों को छाती से सटाएं, फिर आराम से पैरों को फर्श पर लौटने दें। आवश्यकतानुसार कुछ बार दोहराएं।</string>
+    <string name="post_op">पोस्ट-ऑपरेटिव</string>
+    <string name="low_back_stretch">लो बैक स्ट्रेच</string>
+    <string name="exercise9_description">घुटने से छाती तक खिंचाव करने के लिए:</string>
+    <string name="exercise7_2_description">बाहों को सिर के ऊपर ले जाएं।</string>
+    <string name="exercise7_3_description">दाहिनी ओर झुकें, दोनों बाहों को ऊपर की ओर रखें। खिंचाव को गहरा करने के लिए, दाहिने हाथ का उपयोग करें</string>
+    <string name="exercise7_4_description">बाएं हाथ को धीरे से दाईं ओर खींचें।</string>
+    <string name="exercise7_5_description">आरंभिक स्थिति पर लौटें।</string>
+    <string name="exercise7_6_description">दोनों तरफ खिंचाव को कई बार दोहराएं।</string>
+    <string name="exercise9_2_description">एक मजबूत सतह पर अपनी पीठ पर सो जाए। एक घुटने को मोड़ें और अपनी छाती की ओर लाएं। यदि आप इस स्थिति में असुविधा का अनुभव करते हैं, तो अपने दूसरे पैर को मोड़ें और अपनी पीठ के निचले हिस्से पर दबाव कम करने के लिए अपने पैर को जमीन पर रखें।</string>
+    <string name="exercise9_3_description">अपने हाथों को अपने घुटने के चारों ओर लपेटें और धीरे से तब तक खींचे जब तक आपको अपनी पीठ के निचले हिस्से में एक ही तरफ खिंचाव महसूस न हो। 20 से 30 सेकंड के लिए इस स्थिति को पकड़ो, फिर आराम करें। इस खिंचाव को विपरीत पैर पर दोहराएं।</string>
+</resources>

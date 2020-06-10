@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bye Backpain (BBP)</string>
+    <string name="lower_back">परत कमी</string>
+    <string name="lower_tummy_strengthening">कमी पेट मजबूत करणे</string>
+    <string name="exercise1_description">आपल्या खालच्या पोटातील स्नायूंना बळकट करणे महत्वाचे आहे कारण या स्नायू खालच्या मागील भागासह भागीदारीत कार्य करतात. याचा अर्थ असा की जर खालच्या पोटातील स्नायू कमकुवत असतील तर मागचा भाग घट्ट होऊ शकतो, ज्यामुळे पाठीच्या खालची वेदना होऊ शकते.</string>
+    <string name="exercise1_2_description">खालच्या ओटीपोटात स्नायूंचा एक महत्वाचा व्यायाम खालील प्रतिमेत दर्शविला गेला आहे.</string>
+    <string name="exercise1_3_description">ते अत्यंत सभ्य आणि प्रभावी देखील आहे.</string>
+    <string name="exercise1_4_description">मजल्यावरील गुडघा आणि आपल्या पायावर सपाट.</string>
+    <string name="deep_abdominal_strengthening">तीव्र पोट घट्टपणा</string>
+    <string name="exercise2_description">बळकट करण्यासाठी एक अतिशय महत्वाची स्नायू म्हणजे ट्रान्सव्हर्स अ‍ॅबडोमिनिस, जो मागच्या मागच्या भागासाठी एक चांगला सौदा प्रदान करते. बर्‍याच लोकांमध्ये ही स्नायू अत्यंत कमकुवत आहे आणि पाठदुखीचा त्रास होऊ शकतो. या स्नायूला बळकट करण्यासाठी खाली दिलेला एक अतिशय सभ्य आणि सुरक्षित मार्ग आहे.</string>
+    <string name="exercise2_2_description">हा व्यायाम आपल्या पाठीवर ठेवण्यासाठी, आपल्या डोक्याखाली एक लहान उशी ठेवा आणि आपले गुडघे वाकणे.</string>
+    <string name="exercise2_3_description">आपले पाय हिपचे अंतर असले पाहिजे आणि मजल्यावर ठेवले पाहिजे.</string>
+    <string name="bridge">ब्रिज</string>
+    <string name="exercise3_description">पुढील चित्रात दाखवल्याप्रमाणे खालच्या बॅकला गोळा करणे हा आणखी एक चांगला व्यायाम आहे. हा व्यायाम करण्यासाठी, आपल्या मागे आपल्या गुडघे वाकणे आणि कूल्ह्यांना मजल्यावरील अंतर ठेवा.</string>
+    <string name="exercise3_2_description">एक लांब श्वास घ्या आणि खांद्याचे कूल्हे आणि गुडघे सरळ रेषेत येईपर्यंत श्वास सोडत नाही तोपर्यंत आपले बटण फरशीवरुन उंच करा.</string>
+    <string name="exercise3_3_description">जेव्हा आपण आपले कूल्हे मजल्यापासून खाली श्वास घेता.</string>
+    <string name="piriformis_stretch">पिरीफॉर्मिस स्ट्रेच</string>
+    <string name="exercise4_description">आपल्या मागील पीठात वेदना होत असताना घट्ट होऊ शकणारी आणखी एक स्नायू म्हणजे पिरीफॉर्मिस, आपल्या बट मध्ये एक स्नायू. या स्नायूंना ताणून काढण्यासाठी खाली दिलेली पंच खरोखरच प्रभावी आहे, आणि करणे सोपे आहे. व्यायाम करण्यासाठी, आपल्या मागे झोपा आणि डाव्या गुडघ्यावर उजवीकडे घोट्याने जा.</string>
+    <string name="exercise4_2_description">आपला डावा पाय हस्तगत करा आणि दीर्घ श्वास घ्या</string>
+    <string name="exercise4_3_description">तुम्ही श्वास सोडताच गुडघा तुमच्याकडे खेचा.</string>
+    <string name="exercise4_4_description">20-30 सेकंदांपर्यंत ताणून ठेवा.</string>
+    <string name="upper_back_pain">वरचा पाठदुखी</string>
+    <string name="to_perform_the_catcow_pose">मांजरी-गाय पोझेस करण्यासाठी</string>
+    <string name="exercise5_description">चारही बाजूंनी प्रारंभ करा. हात थेट खांद्याच्या खाली आणि गुडघ्यांच्या खाली असावेत. हे एक टेबल पोझ आहे. हळू हळू परत वरच्या बाजूस तिरपा करा, खांद्यावरून खाली ढकलून घ्या आणि डोके छातीवर हलवा. हे मांजर ठरू आहे.</string>
+    <string name="exercise5_2_description">काही सेकंद धरून ठेवा, नंतर ते सोडा.</string>
+    <string name="exercise5_3_description">सुरुवातीच्या स्थितीकडे परत जा परंतु मजल्याच्या दिशेने खालची पाठ सोडत रहा.</string>
+    <string name="to_perform_the_shoulder_roll">खांदा गुंडाळण्यासाठी</string>
+    <string name="exercise6_description">सरळ उभे रहा किंवा शस्त्रे खाली बसा. सतत गोलाकार हालचालीत हळू हळू खांद्यांना पुढे आणि खाली सरकवा. हात शिथिल ठेवण्याचा प्रयत्न करा. सुमारे 30 सेकंदांसाठी हे करा, त्यानंतर त्यास उलट दिशेने पुन्हा करा.</string>
+    <string name="overhead_arm_reach">ओव्हरहेड आर्मपर्यंत पोहोचतो</string>
+    <string name="exercise7_description">बसून किंवा उभे स्थितीत प्रारंभ करा.</string>
+    <string name="exercise8_description">गुडघा-छातीपर्यंत ताणण्यासाठी:</string>
+    <string name="exercise8_2_description">आपल्या पाठीवर पडून प्रारंभ करा. पाय हळूवारपणे वाढवा आणि गुडघे वाकून, त्यांना छातीवर वर आणा. श्वास घेण्यासाठी, गुडघे छातीने वाकवा, नंतर पाय आरामात मजल्याकडे परत येऊ द्या. आवश्यकतेनुसार काही वेळा पुन्हा करा.</string>
+    <string name="post_op">पोस्ट-ऑपरेटिव्ह</string>
+    <string name="low_back_stretch">लो बॅक स्ट्रेच</string>
+    <string name="exercise9_description">गुडघा पासून छाती पर्यंत ताणणे:</string>
+    <string name="exercise7_2_description">डोक्यावर हात पसरवा.</string>
+    <string name="exercise7_3_description">उजवीकडे वळा, दोन्ही हात वरच्या बाजूस ताणून ठेवले. ताणून खोल करण्यासाठी, उजवा हात वापरा</string>
+    <string name="exercise7_4_description">डाव्या हाताला हळू हळू खेचा.</string>
+    <string name="exercise7_5_description">प्रारंभ स्थितीवर परत या.</string>
+    <string name="exercise7_6_description">दोन्ही बाजूंना ताणून पुन्हा पुन्हा सांगा.</string>
+    <string name="exercise9_2_description">एका मजबूत पृष्ठभागावर आपल्या पाठीवर झोपा. एक गुडघा वाकवून आपल्या छातीकडे आणा. जर आपल्याला या स्थितीत अस्वस्थता येत असेल तर आपल्या मागच्या पायांवर दबाव कमी करण्यासाठी आपला दुसरा पाय वाकवा आणि आपले पाय जमिनीवर ठेवा.</string>
+    <string name="exercise9_3_description">आपले हात आपल्या गुडघ्याभोवती गुंडाळणे आणि आपल्या खालच्या मागील बाजूस आपल्याला खिंचाव वाटत नाही तोपर्यंत हळू हळू खेचा. 20 ते 30 सेकंद ही स्थिती धरा, नंतर विश्रांती घ्या. या लेगला उलट लेगवर पुन्हा करा.</string>
+</resources>
